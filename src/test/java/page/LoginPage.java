@@ -20,6 +20,7 @@ public class LoginPage {
 		username.sendKeys(uname);
 		password.sendKeys(pwd);
 		submit.click();;
+		System.out.println("hello world);
 		
 	}
 	
