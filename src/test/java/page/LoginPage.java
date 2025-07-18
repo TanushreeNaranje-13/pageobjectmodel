@@ -19,8 +19,8 @@ public class LoginPage {
 	public void loginPage(String uname, String pwd) {
 		username.sendKeys(uname);
 		password.sendKeys(pwd);
-		submit.click();;
-		System.out.println("hello world);
+		submit.click();
+		
 		
 	}
 	
