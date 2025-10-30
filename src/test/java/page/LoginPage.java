@@ -23,6 +23,7 @@ public class LoginPage {
 		
 	// demo
 		System.out.println("hellow world");
+		System.out.println("my life");
 		
 	}
 	
