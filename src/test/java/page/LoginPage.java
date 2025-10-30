@@ -25,6 +25,7 @@ public class LoginPage {
 		System.out.println("hellow world");
 		System.out.println("my life");
 		
+		System.out.println("my life my rule");
 	}
 	
 	
