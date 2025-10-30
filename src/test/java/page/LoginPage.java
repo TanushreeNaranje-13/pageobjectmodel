@@ -21,6 +21,8 @@ public class LoginPage {
 		password.sendKeys(pwd);
 		submit.click();
 		
+	// demo
+		System.out.println("hellow world");
 		
 	}
 	
